@@ -1,0 +1,48 @@
+html {
+	background-image: url('media/shortfilm.png');
+	background-size: cover;
+	background-color: black;
+	background-position: fixed;
+}
+h1 {
+	position: absolute;
+	top: 180px;
+	left: 350px;
+	color: #5d3f2d;
+	font-family: sans-serif;
+}
+h2 {
+	position: absolute;
+	top: 210px;
+	left: 400px;
+	color: #5d3f2d;
+	font-family: sans-serif;
+}
+.iframe-container {
+	position: absolute;
+	left: 494px;
+	top: 230px;
+}
+nav {
+	position: absolute;
+	top: 220px;
+}
+ul {
+	margin-left: 265px;
+}
+
+ul li {
+	list-style: none;
+}
+
+ul li a {
+	text-decoration: none;
+	font-size: 17px;
+	font-family: sans-serif;
+	color: #845940;
+	padding: 0 22px
+}
+
+ul li a:hover {
+	color: #ffff;
+}

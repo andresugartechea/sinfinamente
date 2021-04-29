@@ -1,0 +1,31 @@
+html {
+	background-image: url('media/collage.png');
+	background-size: cover;	
+	background-repeat: no-repeat;
+	background-color: black;
+	background-position: fixed
+}
+nav {
+	position: absolute;
+	top: 670px;
+}
+
+ul {
+	margin-left: 510px;
+}
+
+ul li {
+	list-style: none;
+}
+
+ul li a {
+	text-decoration: none;
+	font-size: 20px;
+	font-family: sans-serif;
+	color: #ac8373;
+	padding: 0 0px
+}
+
+ul li a:hover {
+	color: #bb8b54;
+}
